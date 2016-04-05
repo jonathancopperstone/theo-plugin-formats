@@ -8,7 +8,8 @@
     "test": "mocha --compilers js:babel-core/register --recursive",
     "test-watch": "npm test -- --watch",
     "build": "BABEL_ENV=commonjs webpack ./formats/index.js ./build/theo-plugin-formats.js",
-    "prepublish": "npm run clean && npm run build"
+    "prepublish": "npm run clean && npm run build",
+    "postpublish": "rimraf build"
   },
   "repository": {
     "type": "git",
