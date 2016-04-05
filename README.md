@@ -11,7 +11,7 @@ Useful formats which can be consumed by Salesforce UX's [Theo](https://github.co
 
 Using these plugins is very simple using ES6. For the time being ES6 is supported only, eventually I'll add transpiled support.
 
-From your ES6 app, simply import the specific format you want to use, and then add it to theo. To understand how theo works, just check out the docs, they're very thorough.
+From your ES6 app, simply import the specific format you want to use, and then add it to [theo's `registerFormat`](https://github.com/salesforce-ux/theo#theoregisterformatname-formatter). To understand how theo works, just check out the docs, they're very thorough.
 
 Also keep in mind that every formatting function might work differently, so check the API.
 
