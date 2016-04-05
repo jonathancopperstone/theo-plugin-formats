@@ -2,6 +2,7 @@
 Useful formats which can be consumed by Salesforce UX's [Theo](https://github.com/salesforce-ux/theo) library.
 
 [ ![Codeship Status for johnnycopperstone/theo-plugin-formats](https://codeship.com/projects/c0553380-dd4b-0133-c869-6e554581ddcc/status?branch=master)](https://codeship.com/projects/144341)
+[![npm version](https://badge.fury.io/js/theo-plugin-formats.svg)](https://badge.fury.io/js/theo-plugin-formats)
 
 ## Formats Overview
 
