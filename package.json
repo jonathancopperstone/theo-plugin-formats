@@ -1,6 +1,6 @@
 {
   "name": "theo-plugin-formats",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Useful formats which can be consumed by Salesforce UX's Theo library.",
   "main": "build/theo-plugin-formats.js",
   "scripts": {
