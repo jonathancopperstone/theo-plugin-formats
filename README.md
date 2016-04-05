@@ -3,11 +3,11 @@ Useful formats which can be consumed by Salesforce UX's [Theo](https://github.co
 
 [ ![Codeship Status for johnnycopperstone/theo-plugin-formats](https://codeship.com/projects/c0553380-dd4b-0133-c869-6e554581ddcc/status?branch=master)](https://codeship.com/projects/144341)
 
-### Formats Overview
+## Formats Overview
 
 - [Stylus](#stylus)
 
-### Usage
+## Usage
 
 Using these plugins is very simple using ES6. For the time being ES6 is supported only, eventually I'll add transpiled support.
 
@@ -15,7 +15,7 @@ From your ES6 app, simply import the specific format you want to use, and then a
 
 Also keep in mind that every formatting function might work differently, so check the API.
 
-### Formats
+## Formats
 
 The formats:
 
