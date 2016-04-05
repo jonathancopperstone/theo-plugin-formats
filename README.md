@@ -26,6 +26,7 @@ The formats:
 
 Stylus formatting allows for an optional prefix to be defined, so it returns a wrapper fn to let you do this. So be sure to pass the invoked function in `registerFormat` with or without a prefix.
 
+    ```
     import theo from 'theo';
     import { stylusFormat } from 'theo-plugin-formats';
 
@@ -34,3 +35,4 @@ Stylus formatting allows for an optional prefix to be defined, so it returns a w
 
     // and with
     theo.registerFormat('styl', stylusFormat('$'));
+    ```
